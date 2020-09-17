@@ -1,5 +1,5 @@
 # mysite-django
-The project is follow up of django docs. Using django 3 for followup.
+The project contains the polls application from django documentation tutorial. Using MARIA DB for database.
 
 # Install
 ```
@@ -22,5 +22,5 @@ replace them with the setting of database you would want to use.<br>
 If you want to use mariadb then you can install the same from [here](https://mariadb.org/download/). 
 
 
-<hr>
-> create an issue or contact me if you run in errors. We may be able to resolve it.
+# Author
+Karan Mittal
